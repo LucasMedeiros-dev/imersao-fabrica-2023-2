@@ -1,3 +1,6 @@
+
+# Atividade sobre operadores
+
 from os import system
 
 while True:
