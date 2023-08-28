@@ -1,0 +1,1 @@
+#Dia 28/08 o começo de tudo.
