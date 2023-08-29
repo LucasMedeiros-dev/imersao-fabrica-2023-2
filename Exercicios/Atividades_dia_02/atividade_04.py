@@ -20,6 +20,9 @@ while True: # Mantém o código num eterno loop até o usuário quebrá-lo
                 f"Sua multa será {valor_multa} R$\n"
                 )
             input("Pressione qualquer coisa para continuar.") # Espera um input para continuar
+        elif velocidade == 80: # Se a velocidade for exatamente 80
+            print("Você passou a exatamente 80 KM/H, Atenção.")
+            input("Pressione qualquer coisa para continuar.") # Espera um input para continuar
         else:
             print("Velocidade até 80 KM/H, não será multado") # Espera um input para continuar
             input("Pressione qualquer coisa para continuar.") # Espera um input para continuar
