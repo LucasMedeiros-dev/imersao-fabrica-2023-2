@@ -6,3 +6,4 @@ Exercicios\Atividades_dia_02\atividade_**.py
 # Dia 30/08 - OOP, Django
 Exercícios localizam-se em
 Exercicios\Atividades_dia_03\*.py
+Exercicios\Atividades_dia_03\projeto_django
