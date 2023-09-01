@@ -84,7 +84,7 @@ DATABASES = {
 }
 
 # Para usar mysql suponha que temos um servidor na porta 3306, nome da db = django_db, numa maquina que fica em 192.168.0.2
-# E que seu nome de usuario seja root e senha admin
+# E que seu nome de usuario seja root e senha admin IMPORTANTE USAR APENAS PARA AMBIENTE DE DEV
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'django.db.backends.mysql',
