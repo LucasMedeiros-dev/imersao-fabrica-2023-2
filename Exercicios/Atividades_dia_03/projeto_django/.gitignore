@@ -1,8 +1,0 @@
-venv
-
-*.sqlite3
-
-__pycache__
-.vscode
-
-agenda\__pycache__
