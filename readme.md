@@ -10,3 +10,5 @@ Exercicios\Atividades_dia_03\projeto_django
 # Dia 31/08 - Meu primeiro app em django rest_framework
 Exercícios localizam-se em
 Exercicios\Atividades_dia_04\projeto_django
+# Dia 01/09 - Apresentação do desafio
+A atividade encontra-se no mesmo local do dia 04 visto que foi uma melhora
