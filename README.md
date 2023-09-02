@@ -1,9 +1,9 @@
-# Desafio Fábrica de Software 2023.2 
+# DESFAIO FÁBRICA DE SOFTWARE 2023.2 
 
 O intuito do desafio é criar uma api que simula uma Fábrica de software.  
 O usuário é responsável por administrar a api de um software de vendas.
 
-# Indice da branch
+# INDICE DA BRANCH
  * [Introdução](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#desafio-f%C3%A1brica-de-software-20232)
  * [Indice](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#indice-da-branch)
  * [Instalação]()
@@ -15,8 +15,12 @@ O usuário é responsável por administrar a api de um software de vendas.
    * Instalação do template do Insomnia
    * Executando e Testando
  * [Usando o projeto]()
- * [Estrutura de Arquivos](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#dos-conte%C3%BAdos-desta-branch)
-## Dos conteúdos desta branch.
+ * [Estrutura de Arquivos](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#dos-conte%C3%BAdos-desta-branch)  
+# INSTALAÇÃO
+## Video Guia
+[![Watch the video](https://img.youtube.com/vi/189aokINyTY/maxresdefault.jpg)](https://youtu.be/189aokINyTY)
+
+# DOS CONTEÚDOS
  Estrutura de arquivos:
 ```
 .
@@ -76,3 +80,13 @@ O usuário é responsável por administrar a api de um software de vendas.
 ├── manage.py                                # Arquivo gerado pelo Django para sua administração.
 └── requirements.txt                         # Bibliotecas necessárias para executar esse projeto.
 ````
+# FEITO POR:
+```
+      ██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗    ███╗   ███╗
+      ██║     ██║   ██║██╔════╝██╔══██╗██╔════╝    ████╗ ████║
+      ██║     ██║   ██║██║     ███████║███████╗    ██╔████╔██║
+      ██║     ██║   ██║██║     ██╔══██║╚════██║    ██║╚██╔╝██║
+      ███████╗╚██████╔╝╚██████╗██║  ██║███████║    ██║ ╚═╝ ██║
+      ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝
+      Lucas Medeiros, Estudante de Ciências da Computação, Unipê.
+ ```
