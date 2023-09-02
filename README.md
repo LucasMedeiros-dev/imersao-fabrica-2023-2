@@ -4,10 +4,10 @@ O intuito do desafio é criar uma api que simula uma Fábrica de software.
 O usuário é responsável por administrar a api de um software de vendas.
 
 # Indice da branch
- * [Introdução](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/edit/master/README.md#desafio-f%C3%A1brica-de-software-20232)
- * [Indice](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/edit/master/README.md#indice-da-branch)
+ * [Introdução](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/master/README.md#desafio-f%C3%A1brica-de-software-20232)
+ * [Indice](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/master/README.md#indice-da-branch)
  * [Instalação]()
- * [Estrutura de Arquivos](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/edit/master/README.md#dos-conte%C3%BAdos-desta-branch)
+ * [Estrutura de Arquivos](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/master/README.md#dos-conte%C3%BAdos-desta-branch)
 ## Dos conteúdos desta branch.
  Estrutura de arquivos:
 ```
