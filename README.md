@@ -7,18 +7,31 @@ O usuário é responsável por administrar a api de um software de vendas.
  * [Introdução](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#desafio-f%C3%A1brica-de-software-20232)
  * [Indice](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#indice-da-branch)
  * [Instalação]()
-   * Video guia 
-   * Instalando o Banco de Dados
-   * Preparando o Banco de Dados
-   * Criando um Ambiente Virtual
-   * Instalando as dependências
-   * Instalação do template do Insomnia
-   * Executando e Testando
+   * [Video guia]()
+   * [Instalando o Banco de Dados]
+   * [Preparando o Banco de Dados]
+   * [Criando um Ambiente Virtual]
+   * [Instalando as dependências]
+   * [Instalação do template do Insomnia]
+   * [Configurando o settings.py]
+   * [Executando e Testando]
  * [Usando o projeto]()
  * [Estrutura de Arquivos](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#dos-conte%C3%BAdos-desta-branch)  
 # INSTALAÇÃO
 ## Video Guia
-[![Watch the video](https://img.youtube.com/vi/189aokINyTY/maxresdefault.jpg)](https://youtu.be/189aokINyTY)
+
+
+https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/b033197c-b83e-4c16-9b78-3ba88cead4f2
+
+
+## INSTALAÇÃO DO BANCO DE DADOS
+## PREPARANDO O BANCO DE DADOS
+## CRIANDO UM AMBIENTE VIRTUAL
+## INSTALANDO AS DEPENDENCIAS
+## INSTALAÇÃO DO TEMPLATE DO INSOMNIA
+## CONFIGURANDO O SETTINGS.PY
+## EXECUTANDO E TESTANDO
+### INSOMNIA
 
 # DOS CONTEÚDOS
  Estrutura de arquivos:
