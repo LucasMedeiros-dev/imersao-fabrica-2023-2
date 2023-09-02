@@ -7,6 +7,14 @@ O usuário é responsável por administrar a api de um software de vendas.
  * [Introdução](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#desafio-f%C3%A1brica-de-software-20232)
  * [Indice](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#indice-da-branch)
  * [Instalação]()
+   * Video guia 
+   * Instalando o Banco de Dados
+   * Preparando o Banco de Dados
+   * Criando um Ambiente Virtual
+   * Instalando as dependências
+   * Instalação do template do Insomnia
+   * Executando e Testando
+ * [Usando o projeto]()
  * [Estrutura de Arquivos](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#dos-conte%C3%BAdos-desta-branch)
 ## Dos conteúdos desta branch.
  Estrutura de arquivos:
