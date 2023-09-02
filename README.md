@@ -1,4 +1,4 @@
-![Fabrica_settigns](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/556385cb-2379-4ac4-8323-b6b131c148a8)# DESAFIO FÁBRICA DE SOFTWARE 2023.2 
+# DESAFIO FÁBRICA DE SOFTWARE 2023.2 
 
 O intuito do desafio é criar uma api que simula uma Fábrica de software.  
 O usuário é responsável por administrar a api de um software de vendas.
@@ -11,7 +11,7 @@ O usuário é responsável por administrar a api de um software de vendas.
    * [Instalando o Banco de Dados](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#instala%C3%A7%C3%A3o-do-banco-de-dados)
    * [Preparando o Banco de Dados](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#preparando-o-banco-de-dados)
    * [Criando um Ambiente Virtual](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#criando-um-ambiente-virtual)
-   * [Clonando o projeto]()
+   * [Clonando o projeto](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2#clonando-o-projeto)
    * [Instalando as dependências](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#instalando-as-dependencias)
    * [Instalação do template do Insomnia](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#instala%C3%A7%C3%A3o-do-template-do-insomnia)
    * [Configurando o settings.py](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#configurando-o-settingspy)
