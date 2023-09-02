@@ -1,4 +1,4 @@
-# DESFAIO FÁBRICA DE SOFTWARE 2023.2 
+![Fabrica_settigns](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/556385cb-2379-4ac4-8323-b6b131c148a8)# DESAFIO FÁBRICA DE SOFTWARE 2023.2 
 
 O intuito do desafio é criar uma api que simula uma Fábrica de software.  
 O usuário é responsável por administrar a api de um software de vendas.
@@ -11,6 +11,7 @@ O usuário é responsável por administrar a api de um software de vendas.
    * [Instalando o Banco de Dados](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#instala%C3%A7%C3%A3o-do-banco-de-dados)
    * [Preparando o Banco de Dados](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#preparando-o-banco-de-dados)
    * [Criando um Ambiente Virtual](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#criando-um-ambiente-virtual)
+   * [Clonando o projeto]()
    * [Instalando as dependências](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#instalando-as-dependencias)
    * [Instalação do template do Insomnia](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#instala%C3%A7%C3%A3o-do-template-do-insomnia)
    * [Configurando o settings.py](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#configurando-o-settingspy)
@@ -108,13 +109,142 @@ Se tudo deu certo a mensagem a seguir deverá aparecer.
 
 ![image](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/d596f331-1547-4ec7-a2ef-56e2249fc334)
 
+Em seguida aperte OK e depois Finish.  
+Você será levado a essa tela.
 
-## CRIANDO UM AMBIENTE VIRTUAL
+![image](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/e2b6a673-b173-4e45-a99b-984dedff7f06)  
+
+Clique no com o botão direito do mouse em cima de Banco de Dados e depois criar novo banco de dados.
+Coloque um nome para esse banco de dados e anote-o(O nome usado no video foi 'fabrica_de_autos').
+Depois pressione ok.
+
+![image](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/2c611027-967c-4f31-92fe-1c545e5dee5e)
+
+Agora vamos clonar o projeto.
+
+## CLONANDO O PROJETO
+Crie uma pasta clique com botão direito do mouse em "Open with Git Bash here"
+deverá se abrir um terminal.
+Neste terminal digitaremos o comando
+~~~bash
+git clone https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2.git Principal
+~~~
+Adendo: Nesse caso Principal será apenas o nome da pasta e não a branch que estamos utilizando.
+
+Quando for concluido o processo de clonagem você verá o seguinte.
+
+![image](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/26a66532-5ec1-41b8-980d-b002b7d999bf)
+
+Agora vamos ver como criar e ativar o Ambiente Virtual.
+## CRIANDO E ATIVANDO UM AMBIENTE VIRTUAL
+
+Na mesma pasta, abra o VSCODE com cmd e digite.
+lembrando que o seu python deve estar no path.
+~~~cmd
+python -m venv venv
+~~~
+em seguida do mesmo terminal ative-o usando
+~~~cmd
+venv\Scripts\activate
+~~~
+o cursor do VSCODE deverá retornar
+~~~
+(venv) C:\...
+~~~
+Sendo assim você instalou e ativou com sucesso seu ambiente virtual.
+
 ## INSTALANDO AS DEPENDENCIAS
+De dentro do seu Ambiente Virtual execute:
+~~~
+pip install -r requirements.txt
+~~~
+Pronto, você instalou as dependências.
+
 ## INSTALAÇÃO DO TEMPLATE DO INSOMNIA
+Para instalar o template de requests, abra o Insomnia e ao lado do nome Collections clique no "+"
+![Cllecots](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/fbb0ba10-21cf-429a-977c-2a71d6aa01df)
+
+E insira o nome API Fabrica de Autos.
+Será aberto um documento vazio.
+Clique na casinha roxa para retornar ao menu principal.
+
+![MenuPinsomia](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/a9545110-a174-4139-ac16-9f0842e4db15)
+
+Em seguida na caixa com o nome API Fabrica, clique nos 3 pontinhos no canto superior direito e em seguida "import".
+
+![Improt](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/bf9a6b22-d07f-4713-a6bd-84ee18998235)
+
+Depois clique em "Choose a file"
+
+E Na pasta onde você clonou o projeto, acesse Principal\Extras\Insomnia_template
+haverá um arquivo chamado "template_api_insomnia.json"
+Clique nele depois no botão abrir no canto inferior direito.
+Se tudo deu certo aparecerá a seguinte tela.
+
+![TelaTemplate](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/f6cc2859-dfc0-455a-872e-e4dd130474fc)
+
+Aperte Scan e depois import.
+Se tudo deu certo ao acessar novamente a "API Fabrica de autos"
+ela terá essas opções.
+
+![image](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/e8ccdd2c-78ee-4e78-a240-c7a8d3a5c1a5)
+
+Parabéns, importado o template da api, mas ainda não podemos usá-lo, temos que colocar o servidor no ar,
+e para isso configurar o settings.py.
+
 ## CONFIGURANDO O SETTINGS.PY
+No VSCODE acesse a pasta Principal\Fabrica_de_autos
+E abra o arquivo settings.py
+Navegue pelo arquivo até encontrar a variável "DATABASES"
+
+![image](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/f03efae6-949a-40c4-9566-4ff0267012be)
+
+Algumas variáveis estarão como "TROQUE-ME", sendo assim devemos trocá-las de acordo com o nosso banco de dados,
+caso você esteja seguindo a risca esse tutorial ele deverá estar assim.
+
+![Fabrica_settigns](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/b76768dd-4b34-438c-bd69-217faf4bf12c)
+
+Depois é só salvar e fechar o settings.py
+Agora, vamos aprender a executar o projeto!
 ## EXECUTANDO E TESTANDO
+Antes de prosseguir verifique se a venv está ativa.
+Para executá-lo fazemos
+~~~
+python manage.py makemigrations
+~~~
+E em seguida
+~~~
+python manage.py migrate
+~~~
+O resultado deverá ser o seguinte após os dois códigos:
+
+![image](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/4b5cec02-5631-4453-8139-9c739a697343)
+
+Depois criamos um usuário com o comando:
+~~~
+python manage.py createsuperuser
+~~~
+Inserimos as credenciais e guardamos as mesmas.
+E depois executamos o projeto com:
+~~~
+python manage.py runserver
+~~~
+O terminal deverá exbiir algo assim:  
+
+![image](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/0106e8ec-4afb-420d-937f-39329f06a839)  
+
+Depois é só navegar até o link exibido e testar os endpoints!
+Parabéns o seu Backend está pronto!
 ### INSOMNIA
+O template do insomnia provém uma forma simples e rápida de acessar todos os endpoints.
+Além de acessar páginas especificas dos endpoints.
+
+Exemplos:
+
+![image](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/8226b150-1a12-4bde-8bee-096d8c6130f9)  
+
+![image](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/assets/39228907/c3793cea-9555-468c-9839-cb24d4e8bc91)
+
 
 # DOS CONTEÚDOS
  Estrutura de arquivos:
