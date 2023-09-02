@@ -6,15 +6,16 @@ O usuário é responsável por administrar a api de um software de vendas.
 # INDICE DA BRANCH
  * [Introdução](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#desafio-f%C3%A1brica-de-software-20232)
  * [Indice](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#indice-da-branch)
- * [Instalação]()
-   * [Video guia]()
-   * [Instalando o Banco de Dados]
-   * [Preparando o Banco de Dados]
-   * [Criando um Ambiente Virtual]
-   * [Instalando as dependências]
-   * [Instalação do template do Insomnia]
-   * [Configurando o settings.py]
-   * [Executando e Testando]
+ * [Instalação](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#instala%C3%A7%C3%A3o)
+   * [Video guia](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#video-guia)
+   * [Instalando o Banco de Dados](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#instala%C3%A7%C3%A3o-do-banco-de-dados)
+   * [Preparando o Banco de Dados](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#preparando-o-banco-de-dados)
+   * [Criando um Ambiente Virtual](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#criando-um-ambiente-virtual)
+   * [Instalando as dependências](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#instalando-as-dependencias)
+   * [Instalação do template do Insomnia](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#instala%C3%A7%C3%A3o-do-template-do-insomnia)
+   * [Configurando o settings.py](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#configurando-o-settingspy)
+   * [Executando e Testando](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#executando-e-testando)
+     * [Insomnia](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#insomnia) 
  * [Usando o projeto]()
  * [Estrutura de Arquivos](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#dos-conte%C3%BAdos-desta-branch)  
 # INSTALAÇÃO
