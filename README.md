@@ -18,7 +18,7 @@ O usuário é responsável por administrar a api de um software de vendas.
    * [Executando e Testando](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#executando-e-testando)
      * [Insomnia](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#insomnia) 
  * [Estrutura de Arquivos](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#dos-conte%C3%BAdos)
- * [SOBRE O TOKEN]()
+ * [SOBRE O TOKEN](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#sobre-o-token)
  * [ASCII Art](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#feito-por)
 # INSTALAÇÃO
 ## Video Guia
