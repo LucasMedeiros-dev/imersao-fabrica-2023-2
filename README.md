@@ -17,7 +17,8 @@ O usuário é responsável por administrar a api de um software de vendas.
    * [Configurando o settings.py](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#configurando-o-settingspy)
    * [Executando e Testando](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#executando-e-testando)
      * [Insomnia](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/blob/master/README.md#insomnia) 
- * [Estrutura de Arquivos](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#dos-conte%C3%BAdos)  
+ * [Estrutura de Arquivos](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#dos-conte%C3%BAdos)
+ * [SOBRE O TOKEN]()
  * [ASCII Art](https://github.com/LucasMedeiros-dev/imersao-fabrica-2023-2/tree/master#feito-por)
 # INSTALAÇÃO
 ## Video Guia
@@ -306,6 +307,12 @@ Exemplos:
 ├── manage.py                                # Arquivo gerado pelo Django para sua administração.
 └── requirements.txt                         # Bibliotecas necessárias para executar esse projeto.
 ````
+# SOBRE O TOKEN:
+````
+Foi tarde demais quando entendi como usar o token, já havia gravado toda a documentação, não havia tempo hábil para refazê-la toda.
+Porém fiz outro projeto mais simples com intuito apenas de demonstrar o uso de autenticação por token, para registrar, logar e exibir o email.
+````
+link: ['Django-token-demo'](https://github.com/LucasMedeiros-dev/Django-token-demo)
 # FEITO POR:
 ```
       ██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗    ███╗   ███╗
